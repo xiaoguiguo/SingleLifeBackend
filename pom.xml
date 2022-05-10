@@ -9,6 +9,7 @@
         <module>lifeShare</module>
         <module>appServer</module>
         <module>advertisement</module>
+        <module>common</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
